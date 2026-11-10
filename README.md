@@ -1,8 +1,8 @@
-# UV Luminosity Functions and Cosmic Densities from the Jiutian Simulations
+# Observational properties of high-redshift galaxies from semi-analytical models
 
 ## Data included
 
-This repository provides predictions from the semi-analytical galaxy formation model(SAM) L-Galaxies2020
+This repository provides predictions from the L-Galaxies2020
 for five stellar IMF models (`Salpeter`, `TopHeavy`, `Chon2022`, `Evolution_z`,
 `Evolution_Z`) at redshifts `z = 5.08 – 19.92`:
 
