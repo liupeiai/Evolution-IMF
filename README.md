@@ -1,4 +1,4 @@
-# Observational properties of high-$z$ galaxies from semi-analytical models
+# Observational properties of high-z galaxies from semi-analytical models
 
 ## Data included
 
