@@ -2,21 +2,6 @@
 
 ## Data included
 
-```text
-📦 root/
-├── 📊 UVLF_*.txt
-├── ✨ rho_UV_*.txt
-├── ⭐ rho_SFR_*.txt
-├── 🌍 rho_star_*.txt
-├── ⚡ n_ion_z_*.txt
-├── 🎯 eta_ion_*.txt
-└── 📁 Metal/
-    ├── 🧬 MZR_*.txt
-    ├── 🔬 metal_z_*.txt
-    ├── 🔭 O_H_z_*.txt
-    ├── ⚛️ Fe_H_z_*.txt
-    └── 🔥 O_Fe_z_*.txt
-
 This repository provides predictions from the L-Galaxies2020
 for five stellar IMF models (`Salpeter`, `TopHeavy`, `Chon2022`, `Evolution_z`,
 `Evolution_metal`) at redshifts `z = 5.08 – 19.92`:
