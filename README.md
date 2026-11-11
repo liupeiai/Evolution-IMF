@@ -33,7 +33,7 @@ The data are taken from:
 ## ✉️ Contact
 
 If you are interested in these data, please feel free to contact the authors.
-Dr. Liu
-- peiailiu@qq.com
-- liupeiai99@gs.zzu.edu.cn   
-- Institute for Astrophysics, Zhengzhou University
+- 👨‍🔬 Dr. Liu
+- 📧 [peiailiu@qq.com](mailto:peiailiu@qq.com)
+- ✉️ [liupeiai99@gs.zzu.edu.cn](mailto:liupeiai99@gs.zzu.edu.cn)
+- 🔭 Institute for Astrophysics, Zhengzhou University
