@@ -1,6 +1,6 @@
 # Observational properties of high-z galaxies from semi-analytical models
 
-## Simulation data
+## 🖥️ Simulation data
 
 This repository provides predictions from the L-Galaxies2020
 for five stellar IMF models (`Salpeter`, `TopHeavy`, `Chon2022`, `Evolution_z`,
