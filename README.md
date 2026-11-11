@@ -33,7 +33,7 @@ The data are taken from:
 ## Contact
 
 If you are interested in these data, please feel free to contact the authors.
-
-## Citation
-
-If you use these data, please cite Liu et al. 2026.
+Dr. Liu
+- peiailiu@qq.com
+- liupeiai99@gs.zzu.edu.cn   
+- Institute for Astrophysics, Zhengzhou University
