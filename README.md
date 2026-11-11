@@ -1,6 +1,6 @@
 # Observational properties of high-z galaxies from semi-analytical models
 
-## Data included
+## Simulation data
 
 This repository provides predictions from the L-Galaxies2020
 for five stellar IMF models (`Salpeter`, `TopHeavy`, `Chon2022`, `Evolution_z`,
@@ -13,7 +13,7 @@ for five stellar IMF models (`Salpeter`, `TopHeavy`, `Chon2022`, `Evolution_z`,
 - ⚡ `n_ion_z_*.txt` — Ionizing photon number density `log10(N_ion)` [cMpc^-3]
 - 🎯 `eta_ion_*.txt` — Ionizing efficiency `log10(ζ_ion)` [erg^-1 Hz]
 
-### 📁 `Metal/` directory
+### 📁 `Metal` 
 
 Contains mass-metallicity relations and gas/stellar metallicities.
 
