@@ -37,10 +37,13 @@ If you are interested in these data, please feel free to contact the authors.
 - 📧 [peiailiu@qq.com](mailto:peiailiu@qq.com)
 - ✉️ [liupeiai99@gs.zzu.edu.cn](mailto:liupeiai99@gs.zzu.edu.cn)
 - <p align="left">
-  <a href="https://orcid.org/0009-0001-8640-9012" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0001--8640--9012-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>\\
-  <a href="mailto:peiailiu@qq.com">
-    <img src="https://img.shields.io/badge/Email-peiailiu@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+    <a href="https://orcid.org/0009-0001-8640-9012" target="_blank">
+      <img src="https://img.shields.io/badge/ORCID-0009--0001--8640--9012-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+    </a>
+  </p>
+  <p align="left">
+    <a href="mailto:peiailiu@qq.com">
+      <img src="https://img.shields.io/badge/Email-peiailiu@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 - 🔭 Institute for Astrophysics, Zhengzhou University
